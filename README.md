@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Finance Backend — Data Processing & Access Control API
 
 A production-quality **Finance Data Processing and Access Control Backend** built with Node.js, TypeScript, Express.js, and Prisma ORM. Features JWT authentication, role-based access control (RBAC), full CRUD for financial transactions, and rich dashboard analytics.
@@ -478,3 +479,6 @@ Tests cover:
 ## 📄 License
 
 ISC
+=======
+# finance-backend
+>>>>>>> 6f1a116ce50267004fee7ac45b2d00f9d0e575cd
